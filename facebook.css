@@ -1,0 +1,153 @@
+html,body{
+    margin:0px;
+    padding: 0px;
+    background-color:#F0F2F5 ;
+}
+
+.homepage{
+    display: flex;
+    flex-wrap: wrap;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+
+
+.parent1{
+    flex:1;
+
+    margin-left: 10vw;
+  
+
+}
+
+.logo{
+    color:#1877F2 ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: 60px;
+}
+
+.line{
+    font-size: 25px;
+
+}
+
+
+.parent2{
+    display: flex;
+   
+   
+}
+
+.box{
+    background-color:#FFFFFF ;
+    
+    padding: 30px;
+
+    border-radius: 10px;
+
+    margin-top: 20px;
+    margin-left: 20px;
+
+    box-shadow: 0px 0px 15px 0px grey;
+
+   
+    
+    
+}
+
+
+
+
+.email input{
+    width: 25vw;
+    height:7vh;
+    font-size: 15px;
+    padding-left: 10px;
+
+    margin-bottom: 15px;
+    border-radius: 6px;
+
+    border: .1px solid gray;
+    
+}
+
+.loginbt input
+{
+    width: 26vw;
+    height: 8vh;
+
+    border-radius: 6px;
+    border: none;
+
+
+    background-color: #166FE6;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 900;
+    letter-spacing: 1px;
+
+    margin-bottom: 10px;
+
+}
+
+
+.forgot a{
+
+
+    color:#166FE6;
+margin-left: 7.5vw;
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+    
+    
+   
+}
+
+hr{
+    margin-top: 15px;
+}
+
+.create input{
+    border-radius: 6px;
+
+    margin-top: 15px;
+
+    width: 26vw;
+    height: 8vh;
+
+    background-color: #42B72A;
+    margin-bottom: 3px;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 900;
+
+    border: none;
+   
+}
+
+
+
+
+
+
+.parent2{
+    flex:1.2;
+    
+   
+}
+
+
+.last{
+    margin-top: 5vh;
+    margin-left: 7vh;
+    font-size: 18px;
+}
+
